@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+cmdstanpy
+arviz
+ipykernel
+jupyter
+scikit-learn
